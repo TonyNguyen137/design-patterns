@@ -7,6 +7,10 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
+### Added
+
+- Singleton pattern
+
 ## [1.0.0] - 2025-12-24
 
 ### Added
