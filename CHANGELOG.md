@@ -7,15 +7,19 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-## [1.0.0] - 2025-12-24
-
 ### Added
 
-- Project setup (ESLint, Prettier, Husky, Commitlint)
-- First design pattern example: Factory Pattern
+- a second Singleton implementation in `singleton.js`
 
 ## [1.1.0] - 2025-12-24
 
 ### Added
 
 - Singleton pattern
+
+## [1.0.0] - 2025-12-24
+
+### Added
+
+- Project setup (ESLint, Prettier, Husky, Commitlint)
+- First design pattern example: Factory Pattern
