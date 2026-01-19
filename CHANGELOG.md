@@ -7,9 +7,9 @@ and this project follows [Semantic Versioning](https://semver.org/).
 
 ## [Unreleased]
 
-### Added
+## [1.2.0] - 2026-01-19
 
-- a second Singleton implementation in `singleton.js`
+- Strategy Pattern
 
 ## [1.1.0] - 2025-12-24
 
